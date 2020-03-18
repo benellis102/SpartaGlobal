@@ -6,14 +6,14 @@ import math
 pygame.init()
 # creating the screen
 screen = pygame.display.set_mode((800, 600))
-background = pygame.image.load("C:/Users/benel_000/Desktop/Python/for finance/space.png")
+background = pygame.image.load("C:/Users/benel_000/Desktop/Python/Sparta/Sparta game/space.png")
 
 pygame.display.set_caption("Space Invaders")
-icon = pygame.image.load("C:/Users/benel_000/Desktop/Python/for finance/spaceship.png")
+icon = pygame.image.load("C:/Users/benel_000/Desktop/Python/Sparta/Sparta game/spaceship.png")
 pygame.display.set_icon(icon)
 
 # player start location
-player_img = pygame.image.load("C:/Users/benel_000/Desktop/Python/for finance/spaceship.png")
+player_img = pygame.image.load("C:/Users/benel_000/Desktop/Python/Sparta/Sparta game/spaceship.png")
 player_x = 370
 player_y = 480
 player_x_change = 0
@@ -22,28 +22,28 @@ player_y_change = 0
 # enemy start location
 
 
-enemy_img = pygame.image.load("C:/Users/benel_000/Desktop/Python/for finance/asteroid.png")
+enemy_img = pygame.image.load("C:/Users/benel_000/Desktop/Python/Sparta/Sparta game/asteroid.png")
 enemy_x = random.randint(0, 800)
 enemy_y = random.randint(50, 150)
 enemy_x_change = 1
 enemy_y_change = 1
 
 # enemy2
-enemy_img2 = pygame.image.load("C:/Users/benel_000/Desktop/Python/for finance/asteroid.png")
+enemy_img2 = pygame.image.load("C:/Users/benel_000/Desktop/Python/Sparta/Sparta game/asteroid.png")
 enemy_x2 = random.randint(0, 800)
 enemy_y2 = random.randint(100, 200)
 enemy_x_change2 = 1.5
 enemy_y_change2 = 1.5
 
 # enemy3
-enemy_img3 = pygame.image.load("C:/Users/benel_000/Desktop/Python/for finance/asteroid.png")
+enemy_img3 = pygame.image.load("C:/Users/benel_000/Desktop/Python/Sparta/Sparta game/asteroid.png")
 enemy_x3 = random.randint(0, 800)
 enemy_y3 = random.randint(50, 300)
 enemy_x_change3 = 2
 enemy_y_change3 = 2
 
 # bullet start location
-bullet_img = pygame.image.load("C:/Users/benel_000/Desktop/Python/for finance/bullet.png")
+bullet_img = pygame.image.load("C:/Users/benel_000/Desktop/Python/Sparta/Sparta game/bullet.png")
 bullet_x = 0
 bullet_y = 480
 bullet_x_change = 0
