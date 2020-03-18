@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23bca6b7-9e04-4323-958e-2d6248f58c36" name="Default Changelist" comment="" />
+    <list default="true" id="23bca6b7-9e04-4323-958e-2d6248f58c36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +16,7 @@
   </component>
   <component name="ProjectId" id="1SWPw20j0Y9ozPh1e2vPwcmI4wc" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -50,7 +54,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sparta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Sparta" type="PythonConfigurationType" factoryName="Python">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,16 +176,15 @@
     </configuration>
     <list>
       <item itemvalue="Python.test calc" />
+      <item itemvalue="Python.Sparta" />
       <item itemvalue="Python.calc" />
       <item itemvalue="Python.Practice __init__" />
       <item itemvalue="Python.scrabble_calc" />
       <item itemvalue="Python.scratch" />
       <item itemvalue="Python tests.pytest in test_calc.py" />
-      <item itemvalue="Python.Sparta" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Sparta" />
         <item itemvalue="Python.calc" />
         <item itemvalue="Python.scrabble_calc" />
         <item itemvalue="Python.Practice __init__" />
@@ -200,6 +203,31 @@
       <option name="presentableId" value="Default" />
       <updated>1571676613206</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated exercises from previous days">
+      <created>1584457382031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584457382031</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated exercises from previous days" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated exercises from previous days" />
   </component>
 </project>
