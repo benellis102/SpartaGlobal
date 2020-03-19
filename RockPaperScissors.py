@@ -1,7 +1,7 @@
 from random import randint
 
-t = ['rock', 'paper', 'scissors']
-computer = t[randint(0, 2)]
+list = ['rock', 'paper', 'scissors']
+computer = list[randint(0, 2)]
 player = False
 
 while player == False:
@@ -34,4 +34,5 @@ while player == False:
         print('please enter a valid choice\n')
 
     player = False
-    computer = t[randint(0, 2)]
+    computer = list[randint(0, 2)]
+

@@ -215,3 +215,123 @@
 #         break
 #
 #
+
+# functions
+
+# def add(a, b):
+#     return a + b
+# print(add(2, 6))
+#
+#
+# def subtract(a, b):
+#     return a - b
+# print(subtract(8, 6))
+#
+#
+# def multiply(a, b):
+#     return a * b
+# print(multiply(2, 6))
+#
+#
+# def divide(a, b):
+#     return a / b
+# print(divide(12, 6))
+
+# class Dog:
+#     animal_kind = "canine"
+#
+#     def bark():
+#         return "woof"
+#
+# print(Dog.animal_kind)
+# print(Dog.bark())
+
+# class Car:
+#     car_type = ['Hatch Back', 'limo', 'sports car']
+#
+#     def speed(self):
+#         return 'Good choice'
+#
+#
+# print(Car.car_type[0])
+# print(Car.speed(1))
+
+# class Person:
+#     def __init__(self, name, age):
+#         self.name = name
+#         self.age = age
+# p1 = Person("John", 36)
+# p2 = Person('Mike', 24)
+# print(p1.name,p1.age)
+# print(p2.name,p2.age)
+
+# class Fizzbuzz:
+#     def caluction(num):
+#         if int(num) % 3 == 0 and int(num) % 5 == 0:
+#             print("Fizzbuzz")
+#         elif int(num) % 3 == 0:
+#             print("Fizz")
+#         elif int(num) % 5 == 0:
+#             print("Buzz")
+#         else:
+#             print('incorrect value')
+#
+#
+# print(Fizzbuzz.caluction(15))
+
+# class Dog:
+#     def __init__(self, name, age):
+#         self.name = name
+#         self.age = age
+#
+#     def bark(self):
+#         return 'woof'
+#
+#     def eat(self):
+#         return '{} says i am eating chicken'.format(self.name)
+#
+# x = Dog('Fido', 5)
+# y = Dog('bob', 2)
+# print('Name of my dog is', x.name)
+# print('age of my dog is', x.age)
+# print(x.bark())
+# print(x.eat())
+
+# class Students:
+#     def __init__(self, name, age, gender):
+#         self.name = name
+#         self.age = age
+#         self.gender = gender
+#
+#     def pupils(self):
+#         if 12 <= self.age < 14:
+#             return '{} is in year 8'.format(self.name)
+#         elif 14 <= self.age < 16:
+#             return '{} is in year 9'.format(self.name)
+#
+#     def genders(self):
+#         if self.gender == 'male':
+#             return '{} is male'.format(self.name)
+#         elif self.gender == 'female':
+#             return '{} is female'.format(self.name)
+#
+#
+# x = Students('John', 15, 'male')
+# y = Students('Sophie', 13, 'female')
+#
+# print(x.pupils(), 'and', x.genders())
+# print(y.pupils(), 'and', y.genders())
+
+# import random
+# import math
+#
+# print(random.random)
+# num_float = 23.66
+# print(math.ceil(num_float))
+# print(math.floor(num_float))
+#
+# import requests
+# requests_bbc = requests.get('https://www.bbc.co.uk/')
+# print(requests_bbc.status_code)
+# print(requests_bbc.content)
+
