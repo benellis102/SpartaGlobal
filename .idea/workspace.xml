@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23bca6b7-9e04-4323-958e-2d6248f58c36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple_Calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sparta University.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RockPaperScissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/RockPaperScissors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sparta.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sparta.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -210,9 +211,9 @@
       <item itemvalue="Python.calc" />
       <item itemvalue="Python.Practice __init__" />
       <item itemvalue="Python.scrabble_calc" />
-      <item itemvalue="Python tests.pytest in test_calc.py" />
       <item itemvalue="Python.RockPaperScissors" />
       <item itemvalue="Python.Game" />
+      <item itemvalue="Python tests.pytest in test_calc.py" />
     </list>
     <recent_temporary>
       <list>
@@ -256,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584522634155</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated exercises from previous days and adding the Game">
+      <created>1584638984689</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584638984689</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -335,3 +335,127 @@
 # print(requests_bbc.status_code)
 # print(requests_bbc.content)
 
+# from animal import *
+#
+#
+# class Reptile(Dog):
+#     def __init__(self, name, age):
+#         super().__init__(name, age)
+#
+#     def sleep(self, name):
+#         return "{} zzz I'm sleeping".format(name)
+#
+#     def running(self, name, speed):
+#         return "{} I'm running in {} speed".format(name, speed)
+#
+#
+# rept1 = Reptile('Mugzie', 5)
+# rept2 = Reptile('Tobie', 2)
+# print(rept1.eat())
+# print(rept2.sleep('Tobie'))
+# print(rept2.running('Tobie', 10))
+
+
+# class Parents:
+#
+#     def __init__(self, first_name, last_name):
+#         self.first_name = first_name
+#         self.last_name  = last_name
+#
+#
+# a = Parents('Tom', 'Brown')
+# b = Parents('Rob', 'Shaw')
+# c = Parents('Bob', 'Shaw')
+# d = Parents('Keith', 'Mitchael')
+# print("Hi, I'm ", a.first_name, a.last_name)
+
+from animal import *
+
+# class Student(Person):
+#     def __init__(self, fname, lname):
+#         super().__init__(fname, lname)
+#
+#     def enjoy(self):
+#         hobby = input('give me one hobby: ')
+#         return '{} enjoys {}'.format(self.fname, hobby)
+#
+#     def chill(self):
+#         return '{} likes a chill beverage'.format(self.fname)
+#
+#
+# pupil_1 = Student('Mike', 'Doe')
+# print(pupil_1.talk())
+# print(pupil_1.enjoy())
+# print(pupil_1.chill())
+
+
+## Inheritance pillar
+
+# from animal import *
+#
+#
+# class Style(Cars):
+#     def __init__(self, make, model, name):
+#         super().__init__(make, model, name)
+#
+#     def speed(self):
+#         quick = input('do you drive; fast or slow?: ')
+#         if quick == 'fast' or quick == 'slow':
+#             return '{} enjoys their {}, {}, {}'.format(self.name, self.make, self.model, quick)
+#         else:
+#             return 'invalid input'
+#
+#
+#     def location(self):
+#         where = input('Where do you drive to? ')
+#         return '{} drives their {}, {} to {}'.format(self.name, self.make, self.model, where)
+#
+#     def heatedseats(self):
+#         return 'nice and warm'
+#
+# person_a = Style('BMW', '3 Series', 'Ben')
+# person_b = Style('Mercedes', 'C class', 'Rob')
+#
+# print(person_a.what())
+# print(person_a.speed())
+# print(person_a.location())
+# print(person_a.heatedseats())
+
+# def add(num1, num2):
+#     return num1 + num2
+#
+# print(add(24,25))
+#
+# addition = lambda num1, num2: num1 + num2
+#
+# print(addition(24,25))
+
+# savings = [234, 567, 789]
+# bonus = list(map(lambda x: x * 1.1, savings))
+# other = list(map(lambda savings: savings * 1.1, savings))
+# print(other)
+#
+# from Simple_Calc import SimpleCalc
+# import unittest
+#
+#
+# class Calctests(unittest.TestCase):
+#     calc = SimpleCalc()
+#
+#     def test_add(self):
+#         self.assertEqual(self.calc.add(2, 4), 6)
+#
+#     def test_subtract(self):
+#         self.assertEqual(self.calc.subtract(4, 2), 2)
+#
+#     def test_multiply(self):
+#         self.assertEqual(self.calc.multiply(2, 2), 4)
+#
+#     def test_divide(self):
+#         self.assertEqual(self.calc.divide(6, 3), 2)
+#
+# if __name__ == '__main__':
+#
+#     unittest.main()
+
+
