@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23bca6b7-9e04-4323-958e-2d6248f58c36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Simple_Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sparta University.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Excel/Python_for_Excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Excel/copy_from_excel_to_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Excel/copybook.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Excel/data9.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Excel/~$copybook.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sparta.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sparta.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +26,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SWPw20j0Y9ozPh1e2vPwcmI4wc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -42,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sparta">
+  <component name="RunManager" selected="Python.copy_from_excel_to_excel (1)">
     <configuration name="Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sparta_Python/Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practice __init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Python for Excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Excel" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/Practice __init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Excel/Python for Excel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RockPaperScissors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sparta_Python/RockPaperScissors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sparta.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sparta_Python/Sparta.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="copy_from_excel_to_excel (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/wetransfer-a6f353/python_code_challenges/challenges" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Excel" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/wetransfer-a6f353/python_code_challenges/challenges/calc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Excel/copy_from_excel_to_excel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scrabble_calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="copy_from_excel_to_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/wetransfer-a6f353/python_code_challenges/challenges" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Excel" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/wetransfer-a6f353/python_code_challenges/challenges/scrabble_calc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Excel/copy_from_excel_to_excel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_calc.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+    <configuration name="pytest in /Users/BenEllis/Downloads/wetransfer-a6f353/python_code_challenges/tests/test_calc.py" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,20 +213,20 @@
     <list>
       <item itemvalue="Python.test calc" />
       <item itemvalue="Python.Sparta" />
-      <item itemvalue="Python.calc" />
-      <item itemvalue="Python.Practice __init__" />
-      <item itemvalue="Python.scrabble_calc" />
       <item itemvalue="Python.RockPaperScissors" />
       <item itemvalue="Python.Game" />
-      <item itemvalue="Python tests.pytest in test_calc.py" />
+      <item itemvalue="Python tests.pytest in /Users/BenEllis/Downloads/wetransfer-a6f353/python_code_challenges/tests/test_calc.py" />
+      <item itemvalue="Python.Python for Excel" />
+      <item itemvalue="Python.copy_from_excel_to_excel" />
+      <item itemvalue="Python.copy_from_excel_to_excel (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.copy_from_excel_to_excel (1)" />
+        <item itemvalue="Python.copy_from_excel_to_excel" />
+        <item itemvalue="Python.Python for Excel" />
         <item itemvalue="Python.Game" />
         <item itemvalue="Python.RockPaperScissors" />
-        <item itemvalue="Python.calc" />
-        <item itemvalue="Python.scrabble_calc" />
-        <item itemvalue="Python.Practice __init__" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584638984689</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updating working files with latest code">
+      <created>1585044677457</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585044677457</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,8 +293,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Updated exercises from previous days" />
     <MESSAGE value="Updated exercises from previous days and adding the Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated exercises from previous days and adding the Game" />
+    <MESSAGE value="Updating working files with latest code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating working files with latest code" />
   </component>
 </project>

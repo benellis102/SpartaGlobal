@@ -369,8 +369,6 @@
 # d = Parents('Keith', 'Mitchael')
 # print("Hi, I'm ", a.first_name, a.last_name)
 
-from animal import *
-
 # class Student(Person):
 #     def __init__(self, fname, lname):
 #         super().__init__(fname, lname)
